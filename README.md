@@ -57,6 +57,9 @@ Contact form submits to PageFactory email service. Includes:
 
 Ready for production deployment to Vercel with nodemailer integration for form submissions if needed.
 
-## Date Created
+## Deployment
 
-2026-05-31
+- **Live URL:** https://affidea-setubal.vercel.app
+- **GitHub Repository:** https://github.com/Hitshigo/affidea-setubal
+- **Date Created:** 2026-05-31
+- **Date Deployed:** 2026-05-31
